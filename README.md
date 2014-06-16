@@ -8,7 +8,7 @@ Selenium Vagrant machine for Menta tests
 
 ```
 magento.local
-mostrami-dev.local
+the-best-shop-eva.local
 ```
 #### Step 2: Start the Vagrant Box
 
