@@ -1,0 +1,2 @@
+magento.local
+the-best-shop-eva.local

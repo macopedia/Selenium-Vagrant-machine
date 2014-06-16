@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant":{"nfs":false,"guestpath":"/home/vagrant","hostpath":"/home/dragan/dev/php/workplaces/drash/vagrant-phpunit-selenium/share","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/dragan/dev/php/workplaces/drash/vagrant-phpunit-selenium","disabled":false}}}

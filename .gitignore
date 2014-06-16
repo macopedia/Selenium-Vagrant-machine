@@ -1,0 +1,6 @@
+# Ignore everything in share
+share/
+
+# But not...
+!share/selup.sh
+!share/examples/
